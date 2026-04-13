@@ -1,0 +1,13 @@
+node_modules
+dist
+.env
+*.log
+backend/uploads/raw/*
+backend/uploads/videos/*
+backend/uploads/thumbnails/*
+backend/uploads/channels/*
+!backend/uploads/raw/.gitkeep
+!backend/uploads/videos/.gitkeep
+!backend/uploads/thumbnails/.gitkeep
+!backend/uploads/channels/.gitkeep
+frontend/dist
