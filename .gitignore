@@ -2,6 +2,8 @@ node_modules
 dist
 .env
 *.log
+backend/data/*.json
+!backend/data/.gitkeep
 backend/uploads/raw/*
 backend/uploads/videos/*
 backend/uploads/thumbnails/*
